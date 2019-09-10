@@ -1,2 +1,2 @@
 # docs
-This is repo is for managing a static site built by hugo to manage my personal documentation.
+This is repo is for hosting a static site built by Hugo to manage my personal documentation.
